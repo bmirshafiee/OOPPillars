@@ -1,0 +1,3 @@
+package visibilitymodifer.internalmodifier
+
+class C
